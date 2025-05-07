@@ -1,0 +1,16 @@
+{
+"companyName": "XHT",
+"productName": "乐平古戏台营造技艺与建构认知虚拟仿真实验",
+"productVersion": "1.0",
+"dataUrl": "乐平戏台打包文件.data.unityweb",
+"wasmCodeUrl": "乐平戏台打包文件.wasm.code.unityweb",
+"wasmFrameworkUrl": "乐平戏台打包文件.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.33f1"
+}
